@@ -6,7 +6,7 @@
 ### <div align="center">I'm Bruno, a IT enthusiast, developer 👨‍💻 learning since 2015 🚀</div>  
   
 
-- 🌱 I’m currently learning Python and Django   
+- 🌱 I’m currently learning Flask from Python   
   
 
 - ⚡ Fun fact: I use tabs over spaces  
